@@ -1,0 +1,361 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="100%" height="100%">
+  <defs>
+    <!-- Filter for crisp presentation -->
+    <clipPath id="circleClip">
+      <circle cx="500" cy="500" r="475" />
+    </clipPath>
+  </defs>
+
+  <!-- Circular White Background (as provided in official logo) -->
+  <circle cx="500" cy="500" r="475" fill="#FFFFFF" />
+
+  <g clip-path="url(#circleClip)">
+    <!-- ========================================== -->
+    <!-- 1. THE VICTORY HAND WITH TRICOLOUR DRIPS    -->
+    <!-- ========================================== -->
+
+    <!-- Base Hand Silhouette (Filled White) -->
+    <path d="
+      M 140 760
+      C 120 700, 110 640, 125 580
+      C 145 500, 185 450, 220 420
+      C 240 400, 275 390, 310 430
+      L 410 240
+      C 440 180, 500 120, 535 150
+      C 565 180, 530 250, 480 320
+      L 450 365
+      L 520 270
+      C 560 215, 620 250, 650 300
+      C 675 345, 640 400, 590 455
+      L 525 530
+      C 540 560, 545 610, 520 660
+      C 490 720, 430 765, 360 780
+      C 260 805, 180 810, 140 760
+      Z
+    " fill="#FFFFFF" />
+
+    <!-- ========================================== -->
+    <!-- 2. ASHOKA CHAKRA (Between fingers)        -->
+    <!-- ========================================== -->
+    <g id="ashoka-chakra">
+      <!-- Outer Ring -->
+      <circle cx="552" cy="280" r="78" fill="none" stroke="#0B2341" stroke-width="12" />
+      <circle cx="552" cy="280" r="70" fill="#FFFFFF" stroke="#0B2341" stroke-width="3" />
+      
+      <!-- 24 Spokes -->
+      <line x1="566.0" y1="280.0" x2="628.0" y2="280.0" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="565.5" y1="283.6" x2="625.4" y2="299.7" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="564.1" y1="287.0" x2="617.8" y2="318.0" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="561.9" y1="289.9" x2="605.7" y2="333.7" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="559.0" y1="292.1" x2="590.0" y2="345.8" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="555.6" y1="293.5" x2="571.7" y2="353.4" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="552.0" y1="294.0" x2="552.0" y2="356.0" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="548.4" y1="293.5" x2="532.3" y2="353.4" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="545.0" y1="292.1" x2="514.0" y2="345.8" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="542.1" y1="289.9" x2="498.3" y2="333.7" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="539.9" y1="287.0" x2="486.2" y2="318.0" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="538.5" y1="283.6" x2="478.6" y2="299.7" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="538.0" y1="280.0" x2="476.0" y2="280.0" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="538.5" y1="276.4" x2="478.6" y2="260.3" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="539.9" y1="273.0" x2="486.2" y2="242.0" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="542.1" y1="270.1" x2="498.3" y2="226.3" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="545.0" y1="267.9" x2="514.0" y2="214.2" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="548.4" y1="266.5" x2="532.3" y2="206.6" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="552.0" y1="266.0" x2="552.0" y2="204.0" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="555.6" y1="266.5" x2="571.7" y2="206.6" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="559.0" y1="267.9" x2="590.0" y2="214.2" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="561.9" y1="270.1" x2="605.7" y2="226.3" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="564.1" y1="273.0" x2="617.8" y2="242.0" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+    <line x1="565.5" y1="276.4" x2="625.4" y2="260.3" stroke="#0B2341" stroke-width="4" stroke-linecap="round"/>
+      
+      <!-- Central Hub -->
+      <circle cx="552" cy="280" r="14" fill="#0B2341" />
+      <circle cx="552" cy="280" r="5" fill="#FFFFFF" />
+    </g>
+
+    <!-- ========================================== -->
+    <!-- 3. SAFFRON DRIP (Index Finger / Left)      -->
+    <!-- ========================================== -->
+    <path d="
+      M 312 426
+      C 340 370, 380 290, 412 242
+      C 438 185, 495 125, 530 152
+      C 560 180, 530 245, 482 318
+      L 450 365
+      C 425 400, 405 450, 396 490
+      C 392 510, 388 560, 396 610
+      C 398 625, 400 645, 385 652
+      C 370 658, 362 640, 366 618
+      C 372 580, 370 540, 382 485
+      C 370 480, 355 482, 345 490
+      C 330 500, 320 480, 326 460
+      C 332 445, 320 435, 312 426
+      Z
+    " fill="#FF5700" />
+
+    <!-- Glossy Highlight on Saffron finger -->
+    <path d="
+      M 430 230
+      C 455 180, 490 145, 510 145
+      C 518 145, 510 160, 485 195
+      C 460 230, 435 275, 418 310
+      C 410 325, 405 315, 410 300
+      C 415 280, 422 250, 430 230
+      Z
+    " fill="#FFFFFF" opacity="0.65" />
+
+    <!-- Hanging teardrop from saffron finger -->
+    <path d="
+      M 385 628
+      C 396 628, 402 640, 398 650
+      C 394 660, 382 662, 376 652
+      C 372 642, 378 628, 385 628
+      Z
+    " fill="#FF5700" />
+
+    <!-- ========================================== -->
+    <!-- 4. GREEN DRIP (Middle Finger / Right)      -->
+    <!-- ========================================== -->
+    <path d="
+      M 445 372
+      L 515 274
+      C 555 220, 615 252, 645 300
+      C 672 342, 642 395, 595 450
+      C 565 485, 545 520, 532 540
+      C 515 565, 510 585, 518 595
+      C 525 605, 535 595, 535 580
+      C 538 560, 548 540, 565 520
+      C 580 505, 600 480, 618 450
+      C 635 425, 650 390, 642 370
+      C 635 350, 610 365, 595 385
+      C 575 410, 540 450, 505 490
+      C 480 470, 460 420, 445 372
+      Z
+    " fill="#00A544" />
+
+    <!-- Glossy Highlight on Green finger -->
+    <path d="
+      M 545 250
+      C 580 235, 618 255, 630 275
+      C 635 285, 625 290, 605 280
+      C 580 270, 555 280, 535 305
+      C 528 315, 525 305, 532 290
+      C 536 275, 540 260, 545 250
+      Z
+    " fill="#FFFFFF" opacity="0.6" />
+
+    <!-- Rounded drip drop on green finger side -->
+    <circle cx="522" cy="582" r="8" fill="#00A544" />
+
+    <!-- ========================================== -->
+    <!-- 5. HAND CONTOURS & ARTISTIC INK OUTLINES   -->
+    <!-- ========================================== -->
+    <!-- Outer Hand Contour -->
+    <path d="
+      M 140 760
+      C 115 690, 105 625, 122 565
+      C 142 490, 185 440, 222 410
+      C 255 385, 290 395, 312 426
+      M 312 426
+      L 412 242
+      C 438 185, 495 125, 530 152
+      C 560 180, 530 245, 482 318
+      L 448 368
+      M 448 368
+      L 515 274
+      C 555 220, 615 252, 645 300
+      C 672 342, 642 395, 595 450
+      L 522 532
+      C 542 565, 548 615, 522 665
+      C 492 725, 432 770, 362 785
+      C 260 810, 180 810, 140 760
+    " fill="none" stroke="#0B2341" stroke-width="14" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Thumb Outline & Cuticle -->
+    <path d="
+      M 218 418
+      C 235 445, 240 500, 225 550
+      C 215 585, 190 625, 155 645
+      M 215 540
+      C 245 560, 295 565, 335 550
+      C 350 545, 365 525, 360 495
+      C 355 465, 330 450, 312 452
+    " fill="none" stroke="#0B2341" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Thumb Nail Oval -->
+    <path d="
+      M 225 560
+      C 240 550, 260 552, 272 568
+      C 280 580, 275 595, 260 605
+      C 242 615, 222 610, 215 595
+      C 210 580, 215 568, 225 560
+      Z
+    " fill="none" stroke="#0B2341" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Folded Fingers & Palm Crease Lines -->
+    <path d="
+      M 160 640
+      C 180 660, 225 675, 275 670
+      C 315 665, 345 640, 355 610
+      M 195 680
+      C 230 715, 285 725, 335 715
+      M 125 575
+      C 150 560, 185 555, 215 565
+      M 310 450
+      C 335 490, 350 540, 350 580
+    " fill="none" stroke="#0B2341" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" />
+
+    <!-- Knuckle crease accents on extended fingers -->
+    <path d="
+      M 432 300 C 445 308, 460 305, 470 298
+      M 390 355 C 405 365, 420 360, 430 350
+      M 535 375 C 550 385, 570 380, 582 370
+      M 495 435 C 510 445, 528 440, 540 430
+    " fill="none" stroke="#0B2341" stroke-width="8" stroke-linecap="round" />
+
+    <!-- ========================================== -->
+    <!-- 6. TYPOGRAPHY: "Jai", "Hind", "sports shop"-->
+    <!-- ========================================== -->
+    
+    <!-- Word 1: "Jai" (Vibrant Saffron Brush Script) -->
+    <g id="jai-text" fill="#FF5700">
+      <!-- Dot on 'i' -->
+      <circle cx="892" cy="442" r="20" fill="#FF5700" />
+      
+      <!-- Script "Jai" path -->
+      <path d="
+        M 665 440
+        C 690 415, 725 405, 755 425
+        C 765 432, 765 445, 755 452
+        C 735 465, 705 455, 695 465
+        C 685 475, 692 505, 712 550
+        C 732 595, 740 625, 715 645
+        C 690 665, 655 640, 642 610
+        C 635 595, 645 585, 658 592
+        C 675 605, 695 615, 705 602
+        C 715 588, 708 555, 690 520
+        L 668 475
+        C 655 450, 650 445, 665 440
+        Z
+      " />
+      
+      <!-- 'a' and 'i' connected -->
+      <path d="
+        M 760 525
+        C 745 540, 735 560, 740 575
+        C 748 590, 770 592, 785 580
+        C 800 568, 805 548, 802 530
+        C 798 505, 775 510, 760 525
+        M 802 530
+        C 815 520, 830 515, 842 530
+        C 850 540, 845 560, 848 575
+        C 852 585, 865 585, 875 575
+        C 885 565, 890 545, 888 525
+        C 892 505, 915 515, 908 535
+        C 902 555, 895 585, 878 595
+        C 855 608, 832 595, 825 575
+        C 820 560, 818 545, 812 535
+        C 805 555, 792 585, 770 598
+        C 742 612, 718 595, 715 565
+        C 712 535, 735 505, 765 495
+        C 790 488, 812 498, 818 518
+        Z
+      " />
+    </g>
+
+    <!-- Word 2: "Hind" (Vibrant Emerald Green Brush Script) -->
+    <g id="hind-text" fill="#00A544">
+      <!-- 'H' -->
+      <path d="
+        M 405 675
+        C 435 635, 465 590, 495 545
+        C 512 520, 532 532, 522 552
+        C 502 595, 475 645, 448 695
+        C 435 720, 415 750, 395 755
+        C 380 758, 375 745, 382 730
+        C 392 705, 400 688, 405 675
+        Z
+      " />
+      <path d="
+        M 470 615
+        C 505 595, 545 600, 565 628
+        C 580 650, 570 685, 555 720
+        C 542 750, 525 765, 510 755
+        C 500 748, 508 732, 518 715
+        C 532 688, 540 665, 530 650
+        C 520 638, 492 642, 465 660
+        L 435 730
+        C 425 750, 410 745, 415 728
+        L 452 635
+        C 458 620, 462 618, 470 615
+        Z
+      " />
+      <path d="
+        M 565 600
+        C 575 580, 595 585, 590 605
+        L 548 715
+        C 540 735, 522 735, 528 715
+        Z
+      " />
+
+      <!-- 'i', 'n', 'd' -->
+      <!-- Dot on 'i' -->
+      <circle cx="602" cy="590" r="18" fill="#00A544" />
+      
+      <path d="
+        M 585 645
+        C 600 630, 618 632, 622 650
+        C 628 670, 618 700, 612 722
+        C 608 735, 622 738, 632 725
+        C 648 705, 655 675, 658 650
+        C 660 632, 678 625, 692 638
+        C 705 650, 702 675, 698 700
+        C 692 725, 702 735, 715 725
+        C 730 710, 742 685, 748 660
+        C 752 640, 772 635, 782 650
+        C 795 668, 785 700, 778 725
+        C 772 748, 790 755, 805 738
+        C 830 710, 850 660, 862 605
+        C 868 578, 890 585, 885 610
+        C 872 670, 845 730, 810 765
+        C 780 795, 748 780, 745 745
+        C 735 765, 715 780, 690 775
+        C 668 770, 660 750, 658 730
+        C 648 752, 630 770, 608 765
+        C 585 760, 580 735, 585 710
+        L 595 660
+        C 598 648, 592 642, 585 645
+        Z
+      " />
+      
+      <!-- Flourish underline sweep under Hind -->
+      <path d="
+        M 425 765
+        C 480 750, 580 760, 680 755
+        C 750 750, 820 735, 875 705
+        C 890 695, 898 710, 882 722
+        C 820 765, 740 782, 660 785
+        C 570 788, 470 785, 420 780
+        C 408 778, 412 768, 425 765
+        Z
+      " />
+    </g>
+
+    <!-- Word 3: "sports shop" (Vibrant Saffron Bold Rounded Geometric Sans) -->
+    <g id="sports-shop-text">
+      <text 
+        x="585" 
+        y="840" 
+        text-anchor="middle" 
+        font-family="system-ui, -apple-system, 'Nunito', 'Fredoka', 'Quicksand', 'Arial Rounded MT Bold', sans-serif" 
+        font-size="108" 
+        font-weight="900" 
+        letter-spacing="-1px"
+        fill="#FF5700"
+      >
+        sports shop
+      </text>
+    </g>
+
+  </g>
+</svg>

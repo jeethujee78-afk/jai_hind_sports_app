@@ -1,0 +1,6 @@
+{
+  "name": "Jai Hind Sports",
+  "description": "Premium sports showcase and boutique business platform for Jai Hind Sports in Coimbatore, Tamil Nadu, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

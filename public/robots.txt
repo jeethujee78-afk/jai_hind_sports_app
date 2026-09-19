@@ -1,0 +1,5 @@
+# robots.txt for JAI HIND SPORTS Coimbatore
+User-agent: *
+Allow: /
+
+Sitemap: https://jaihindsports.in/sitemap.xml
